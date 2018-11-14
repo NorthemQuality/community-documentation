@@ -6,9 +6,6 @@ Mediante este proceso queremos intentar mantener un mayor control de los cambios
 
 Todos los nuevos cambios deberán ir en una nueva rama, nunca en la rama master.
 
-```
-git checkout -b [nueva_rama]
-```
 
 ## 2. Crear un nuevo pull request (PR)
 
