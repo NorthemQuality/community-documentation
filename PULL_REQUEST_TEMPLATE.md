@@ -1,11 +1,3 @@
-## Proceso
-1. [ ] Crea la issue para los cambios en caso de que no exista. [Issues](../../issues)
-2. [ ] Asegurate de crear la rama. Su nombre deberá ser el código de issue.
-3. [ ] Crea el pull request (PR) y describe los siguientes puntos.
-4. [ ] Algún compañero cogerá el PR y lo revisará.
-5. [ ] Da solución o response a la revisión del compañero.
-6. [ ] El compañero mergeará los cambios.
-
 ### Descripción
 <!--- Describe los cambios en detalle -->
 
@@ -23,10 +15,10 @@
 
 ### Checklist:
 
-* [ ] ¿Has mirado que no haya otra pull request [Pull Requests](../../pulls) para el mismo cambio?
-* [ ] ¿Has creado la issue [Issues](../../issues)?
-* [ ] ¿Has añadido teses? (Si no lo has hecho, puedes explicar el motivo en el apartado de "Otros detalles")
+* [ ] ¿Has mirado que no haya otra [Pull Requests](../../pulls) para el mismo cambio?
+* [ ] ¿Has creado la [Issue](../../issues)?
 * [ ] ¿Has descrito los puntos del PR?
 * [ ] ¿Has dado solución o respondido a los comentarios de la revisión?
 
 
+Puedes ver el documento de [Proceso de PR](PROCESO_PR.md) en caso de cualquier duda.
